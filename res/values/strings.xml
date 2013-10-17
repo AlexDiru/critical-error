@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Critical Error</string>
+	<string name="menu_campaign">Campaign</string>
+	<string name="menu_freeplay">Free Play</string>
+	<string name="menu_shop">Shop</string>
+	<string name="menu_settings">Settings</string>
+	<string name="menu_exit">Exit</string>
+	<string name="erase_data">Erase Data</string>
+	<string name="back">Back</string>
+	<string name="fuel">Fuel</string>
+	<string name="lives">Lives</string>
+	<string name="score">Score</string>
+	
+	<string name="confirm">Are you sure?</string>
+	<string name="yes">Yes</string>
+	<string name="no">No</string>
+	<string name="ok">OK</string>
+	<string name="money_prefix">Money: </string>
+	<string name="insufficient_funds">Insufficient Funds</string>
+	<string name="insufficient_funds_body_prefix1">This costs</string>
+	<string name="insufficient_funds_body_prefix2">. You only have</string>
+	
+	<string name="exit_game">Exit Game</string>
+</resources> 

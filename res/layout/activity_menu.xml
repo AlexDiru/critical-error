@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="fill_parent"
+        android:layout_height="58dp"
+        android:text="@string/menu_campaign"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+      />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="fill_parent"
+        android:layout_height="58dp"
+        android:layout_marginTop="58dp"
+        android:text="@string/menu_freeplay"
+        android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="fill_parent"
+        android:layout_height="58dp"
+        android:layout_marginTop="116dp"
+        android:text="@string/menu_shop"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="fill_parent"
+        android:layout_height="58dp"
+        android:layout_marginTop="174dp"
+        android:text="@string/menu_exit"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</RelativeLayout>
